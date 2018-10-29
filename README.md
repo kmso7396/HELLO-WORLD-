@@ -1,2 +1,3 @@
 # HELLO-WORLD-
-Just another repository
+
+Hi everyone, im min seok, kwon. im interested in security. thx :)
